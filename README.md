@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/nrlhafizah/JavaPipelines/_apis/build/status/nrlhafizah.pipelines-java?branchName=main)](https://dev.azure.com/nrlhafizah/JavaPipelines/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
